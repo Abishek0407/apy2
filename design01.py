@@ -303,5 +303,5 @@ if __name__ =='__main__':
     pensize(3)
     speed(9)
     Doremon()
-    ankur(100,-300)
+    ankur(100,-301)
     mainloop()
